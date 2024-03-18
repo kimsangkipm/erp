@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>kim sang ki</h1>
+    <h1>kim sang ki223</h1>
   </div>
   <div>
     <!-- 메인 메뉴 항목, 클릭 시 서브메뉴 표시 상태 토글 -->
